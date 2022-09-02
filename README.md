@@ -1,4 +1,4 @@
-# 雙拼
+# 袖珍简化字拼音＋小鹤双拼方案
 
 配方： ℞ **double-pinyin-flypy-simp**
 
